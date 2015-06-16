@@ -1,0 +1,5 @@
+DirtTile,Dirt,0
+GrassTile,Grass,0
+WaterTile,Water,1
+SandTile,Sand,0
+RockTile,Rock,1
